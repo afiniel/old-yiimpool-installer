@@ -1,27 +1,19 @@
 ## Afiniel YiiMP Server Installer 🚀
-Need Help? join us <a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
-
-
-## Fork from Cryptopool-builders installer
+<a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
 
 # This is opened as a public beta - all features are not final!
 
 All in one, this installer install all that your server need.
 
-**Afiniel YiiMP Server installer!** Automates most of the tedious tasks of the following releases:
-
-* YiiMP
-* NOMP Coming Soon
-* MPOS coming Soon
-* CryptoNote-Nodejs Coming Soon
-* Generic faucet script Coming Soon
-
-## TOC
+## Table of Contents
 
 - [Installation](#-installation)
-- [YiiMP](#-Yiimp-install)
+- [Usage](#-usage)
+- [Information](#-information)
+- [Commands](#-commands)
+- [Credits](#-credits)
+- [License](#-license)
 - [Support](#-support)
-
 ## 💾 Installation
 
 Installation:
@@ -47,10 +39,10 @@ You need run the installer under root or an existing account. If you already hav
 
 After rebooting the server to your user to start the installer type:
 ```
-multipool
+yiimpool
 ```
 
-## ⚙️ YiiMP Install
+## ⚙️ Information
 
 The Yiimp Installer is recommend for private or very small pools. It is recommended to have at least 4-8 GB ram in order to function properly.
 Setup is automated after the following questions are answered:
@@ -84,12 +76,6 @@ After rebooting the server log back in to your user account. And you will be gre
 ```
 motd
 ```
-and you should see this:
-
-<p align="center">
-  <img src="./.assets/running.png" alt="running"
-       width="740" height="655">
-</p>
 
 #### To help make your server more secure we have changed the install locations and directory structure of YiiMP as follows:
 
@@ -145,36 +131,17 @@ You <b>MUST</b> also open the RPC Port number on the daemon server when adding n
 
 From there your YiiMP Multi Server installation is fully completed. You can now go to example.com/site/AdminPortal to access your admin section and start adding your coins.
 
-#### 🔗 Commands
-
-To view a screen type:
-```
-screen -r main|loop2|blocks|debug
-```
-To detach from a screen type:
-```
-ctrl+a+d
-```
-To start, stop or restart main|loop2|blocks|debug type:
-```
-screens start|stop|restart main|loop2|blocks|debug
-```
-We also suggest that you type:
-```
-yiimp
-```
-and get to know those commands as well!
-
 ## ❤️ Credits
 
 The following GitHubs have been a source of inspiration and code:
 
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox)
 * [realeas-it](https://github.com/webpro/release-it)
+* [cryptopool.builders](https://github.com/cryptopool-builders)
+* [Kudaraidee](https://github.com/Kudaraidee)
 
 The following forks have been used in the making of the script:
-* [cryptopool-builders](https://github.com/cryptopool-builders/Multi-Pool-Installer)
-* [YiiMP](https://github.com/Kudaraidee/yiimp)
+* [YiiMP](https://github.com/tpruvot/yiimp)
 
 ## 🎓 License
 
