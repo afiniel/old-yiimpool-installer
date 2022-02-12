@@ -137,7 +137,7 @@ The following GitHubs have been a source of inspiration and code:
 
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox)
 * [realeas-it](https://github.com/webpro/release-it)
-* [cryptopool.builders](https://github.com/cryptopool-builders)
+* [Afiniel](https://github.com/Afiniel)
 * [Kudaraidee](https://github.com/Kudaraidee)
 
 The following forks have been used in the making of the script:
