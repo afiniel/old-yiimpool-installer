@@ -1,4 +1,4 @@
-## Afiniel Mining Pool Installer v4.4🚀
+## Afiniel Mining Pool Installer v4.5🚀
 <a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
 
 # This is opened as a public beta - not all features are final yet!
