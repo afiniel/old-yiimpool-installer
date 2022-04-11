@@ -3,14 +3,14 @@
 
 #########################################################
 # Source https://mailinabox.email/ https://github.com/mail-in-a-box/mailinabox
-# Updated by Afiniel for crypto use...
+# Updated by Afiniel for Yiimpool use...
 # This script is intended to be run like this:
 #
 #   curl https://raw.githubusercontent.com/afiniel/Multi-Pool-Installer/master/bootstrap.sh | bash
 #
 #########################################################
 if [ -z "${TAG}" ]; then
-	TAG=v4.1
+	TAG=v4.2
 fi
 
 
