@@ -1,7 +1,7 @@
-## Afiniel YiiMP Server Installer 🚀
+## Afiniel Mining Pool Installer v4.1🚀
 <a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
 
-# This is opened as a public beta - all features are not final!
+# This is opened as a public beta - not all features are final yet!
 
 All in one, this installer install all that your server need.
 
@@ -151,7 +151,7 @@ The following forks have been used in the making of the script:
 
 Donations for continued support of this script are welcomed at:
 
-* BTC bc1q338jnjdl6dky7ka88ln8qmcekal48uw072n9v9
-* Doge DSpy3taXqkbWSkhM4GMtsXftxyYHX2Gt3r
-* ETH 0x50C7d0BF9714dBEcDc1aa6Ab0E72af8e6Ce3b0aB
-* LTC LW4iFgCTQAVWoxe4VF7nFy2WLHdR6xNkjK
+* BTC: bc1qpnxtg3dvtglrvfllfk3gslt6h5zffkf069nh8r
+* Doge: DCj73fKJbHeDTJx7arz4z7bbknWkSDpD8h
+* ETH: 0x50C7d0BF9714dBEcDc1aa6Ab0E72af8e6Ce3b0aB
+* NANO: nano_1pu1cicqqtxjrfq6kibg15s3emznmfh3aaw38pd33mzhygti41tmgscsojwz
