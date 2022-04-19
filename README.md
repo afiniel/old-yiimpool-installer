@@ -138,12 +138,12 @@ The following GitHubs have been a source of inspiration and code:
 
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox)
 * [realeas-it](https://github.com/webpro/release-it)
-* [Afiniel](https://github.com/Afiniel)
-* [Kudaraidee](https://github.com/Kudaraidee)
 
 The following forks have been used in the making of the script:
-* [YiiMP](https://github.com/tpruvot/yiimp)
 
+* [YiiMP](https://github.com/tpruvot/yiimp)
+* [Kudaraidee](https://github.com/Kudaraidee)
+* [Cryptopool-builder](https://github.com/cryptopool-builders)
 ## 🎓 License
 
 [MIT](http://webpro.mit-license.org/)
@@ -152,7 +152,7 @@ The following forks have been used in the making of the script:
 
 Donations for continued support of this script are welcomed at:
 
-* BTC: bc1qpnxtg3dvtglrvfllfk3gslt6h5zffkf069nh8r
+* BTC:  bc1qpnxtg3dvtglrvfllfk3gslt6h5zffkf069nh8r
 * Doge: DCj73fKJbHeDTJx7arz4z7bbknWkSDpD8h
-* ETH: 0x50C7d0BF9714dBEcDc1aa6Ab0E72af8e6Ce3b0aB
-* NANO: nano_1pu1cicqqtxjrfq6kibg15s3emznmfh3aaw38pd33mzhygti41tmgscsojwz
+* ETH:  0x50C7d0BF9714dBEcDc1aa6Ab0E72af8e6Ce3b0aB
+* LTC:  ltc1qqw7cv4snx9ctmpcf25x26lphqluly4w6m073qw
