@@ -21,11 +21,12 @@ if [ ! -d $HOME/yiimpool ]; then
 		apt-get -q -q update
 		DEBIAN_FRONTEND=noninteractive apt-get -q -q install -y git < /dev/null
 		echo DONE...
-	    echo
+		echo
 
 	fi
 	echo Downloading Lolcat . . .
 	apt-get install -y lolcat < /dev/null
+	echo DONE...
 	echo Downloading Yiimpool Installer ${TAG}. . .
 	git clone \
 		-b ${TAG} --depth 1 \
