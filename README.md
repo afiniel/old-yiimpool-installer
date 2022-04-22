@@ -1,10 +1,12 @@
 
-## Afiniel Mining Pool Installer v4.7.5🚀
-<a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
+<h1 align="center"> Afiniel Mining Pool Installer v4.7.5🚀
 
-# This is opened as a public beta - not all features are final yet!
+<h1 align="left"><a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
 
-All in one, this installer install all that your server need.
+<h1 align="left"> [![Join the chat at https://gitter.im/afiniel/Yiimp-Pool-Installer](https://badges.gitter.im/afiniel/Yiimp-Pool-Installer.svg)](https://gitter.im/afiniel/Yiimp-Pool-Installer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+### All in one, this installer install all that your server need.
 
 ## Table of Contents
 
